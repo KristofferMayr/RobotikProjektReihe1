@@ -10,8 +10,8 @@
 | LED-Beleuchtung | 2x High-Power LED-Panels | Kontrastreiche, flackerfreie Ausleuchtung der Ballflugbahn | 24V DC | Trigger-Eingang | 240,00 | [Industrie-LED] |
 | Buskoppler | Beckhoff EK1100 | Kopplung der modularen EtherCAT-E/A-Klemmen mit dem IPC | 24V DC | EtherCAT (RJ45) | 175,00 | [Beckhoff EK1100] |
 | Motortreiber (1-6) | 6x Beckhoff EL7211-0010 | Kompakte Servomotor-EtherCAT-Klemmen mit FOC-Regelung und STO | 48V DC | EtherCAT / CoE | 2.160,00 | [Beckhoff EL7211] |
-| Hauptmotoren (M1-M3) | 3x Maxon EC-i 52 (180W) | Bürstenloser High-Torque-Antrieb für die trägen Basisachsen | 48V DC | PWM / Hall-Geber | 1.260,00 | [Maxon EC-i 52] |
-| Handgelenkmotoren | 3x Maxon EC-flat 45 (70W) | Kompakte, flache BLDC-Motoren für minimales Gewicht an Handachsen | 48V DC | PWM / Hall-Geber | 780,00 | [Maxon EC-flat] |
+| Hauptmotoren (M1-M3) | 3x Beckhoff AM8121 | Dynamischer Synchron-Servomotor (~180W), optimiert für 48V und OCT | 48V DC | Beckhoff OCT | 1.350,00 | [Beckhoff AM8121] |
+| Handgelenkmotoren (M4-M6) | 3x Beckhoff AM8112 | Kompakter Ultra-Leichtbau-Servomotor (~90W) für die Handachsen | 48V DC | Beckhoff OCT | 1.050,00 | [Beckhoff AM8112] |
 | Hauptgetriebe (G1-G3) | 3x Harmonic Drive HFUC-20-100 | Spielfreie Wellgetriebe (100:1) für extreme Positioniergenauigkeit | — | Mechanisch | 2.850,00 | [Harmonic Drive] |
 | Handgelenkgetriebe | 3x Harmonic Drive HFUC-14-50 | Leichtbau-Wellgetriebe (50:1) zur Schlägerorientierung / Drall | — | Mechanisch | 2.190,00 | [Harmonic Drive] |
 | Absolut-Encoder | 6x RLS Orbis Absolute | Magnetische Absolutwertgeber direkt an den Gelenk-Abtriebswellen | 5V DC | BiSS-C / SSI | 1.320,00 | [RLS Orbis Spec] |
@@ -21,4 +21,4 @@
 | Hauptnetzteil Motoren | Mean Well RSP-1500-48 | Schaltnetzteil zur Leistungsversorgung der Servomotoren (32A) | 230V → 48V DC | Schraubklemmen | 345,00 | [MW RSP-1500] |
 | Logiknetzteil | Mean Well NDR-240-24 | Hutschienen-Netzteil für Steuerung, IPC, Safety und Sensorik | 230V → 24V DC | Schraubklemmen | 68,00 | [MW NDR-240] |
 | Mechanische Struktur | Custom CFK & Aluminium | Arm-Glieder aus Carbon-Rohren und CNC-Alu-Gelenkstücken | — | Mechanisch | 1.150,00 | [Eigenkonstruktion] |
-| **GESAMTSUMME** | | | | | **17.207,00 €** | |
+| **GESAMTSUMME** | | | | | **17.967,00 €** | |
